@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/steelpipe75/posts.svg)](http://qiita.com/steelpipe75)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/steelpipe75/contributions.svg)](http://qiita.com/steelpipe75)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/steelpipe75/followers.svg)](http://qiita.com/steelpipe75)
+
 [![Yutaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelpipe75)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steelpipe75&hide=html,css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
