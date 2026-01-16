@@ -1,25 +1,3 @@
 ## Hi there 👋
 
-<!--
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/steelpipe75/posts.svg)](http://qiita.com/steelpipe75)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/steelpipe75/contributions.svg)](http://qiita.com/steelpipe75)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/steelpipe75/followers.svg)](http://qiita.com/steelpipe75)
--->
-
-[![steelpipe75's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelpipe75)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steelpipe75&hide=html,css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**steelpipe75/steelpipe75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Articles](https://badgen.org/img/qiita/steelpipe75/articles?style=plastic)](https://qiita.com/steelpipe75)
