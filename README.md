@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Contributions](https://badgen.org/img/qiita/steelpipe75/contributions?style=plastic)](https://qiita.com/steelpipe75)
+[![Followers](https://badgen.org/img/qiita/steelpipe75/followers?style=plastic)](https://qiita.com/steelpipe75)
 [![Articles](https://badgen.org/img/qiita/steelpipe75/articles?style=plastic)](https://qiita.com/steelpipe75)
 
 ---
